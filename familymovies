@@ -1,5 +1,5 @@
 #EXTM3U size="medium"
-#EXTINF:0 tvg-logo="http://examples.com/logos/films/fantastic1.png" type="video" description="2014", Edge of Tomorrow
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg" type="video" description="2024", Inside Out 2 
 http://example.com/stream1
 #EXTINF:0 tvg-logo="http://examples.com/logos/films/fantastic2.png" type="video" description="2005", Flightplan
 http://example.com/stream12
