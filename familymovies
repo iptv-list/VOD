@@ -1,6 +1,6 @@
 #EXTM3U size="medium"
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg" type="video" description="2024", Inside Out 2 
-http://example.com/stream1
+https://drive.usercontent.google.com/download?id=18yXKlICpoX9TAYtU1Cdu16h3iA3Puxc-&export=download&authuser=0&confirm=t&uuid=b93e4ba2-1a1b-44c5-82ce-b9370cfdf739&at=AN_67v2ajzJ6VxDjLMA53fTyNvVI%3A1727637527514
 #EXTINF:0 tvg-logo="http://examples.com/logos/films/fantastic2.png" type="video" description="2005", Flightplan
 http://example.com/stream12
 #EXTINF:0 tvg-logo="http://examples.com/logos/films/fantastic3.png" type="video" description="1997", Gattaca
