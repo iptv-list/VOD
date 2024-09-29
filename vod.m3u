@@ -7,5 +7,5 @@ http://example.com/playlists/serials.m3u
 https://raw.githubusercontent.com/iptv-list/VOD/refs/heads/main/movies.m3u
 #EXTINF:0 tvg-logo="https://img.freepik.com/free-vector/24-hours-7-days-everyday-helpdesk-service-background_1017-54447.jpg", 24/7 Channels
 #EXTSIZE: Medium
-http://example.com/playlists/serials.m3u
+https://raw.githubusercontent.com/iptv-list/VOD/refs/heads/main/24-7.m3u
 
