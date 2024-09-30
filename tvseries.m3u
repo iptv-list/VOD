@@ -4,7 +4,7 @@
 http://example.com/playlists/serials.m3u
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w342/vHqeLzYl3dEAutojCO26g0LIkom.jpg", The Simpsons
 #EXTSIZE: Medium
-https://raw.githubusercontent.com/iptv-list/VOD/refs/heads/main/movies.m3u
+https://raw.githubusercontent.com/iptv-list/tvepisodes/refs/heads/main/thesimpsons
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w342/7RRHbCUtAsVmKI6FEMzZB6Re88P.jpg", Futurama
 #EXTSIZE: Medium
 https://raw.githubusercontent.com/iptv-list/VOD/refs/heads/main/movies.m3u
