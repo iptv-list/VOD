@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="", 24/7 TV Shows
 #EXTSIZE: Large
-
+https://raw.githubusercontent.com/iptv-list/VOD/refs/heads/main/24-7tvshows.m3u
 #EXTINF:0 tvg-logo="", 24/7 Movies
 #EXTSIZE: Large
 https://raw.githubusercontent.com/iptv-list/VOD/refs/heads/main/movies.m3u
