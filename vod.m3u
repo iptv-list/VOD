@@ -5,7 +5,5 @@ http://example.com/playlists/serials.m3u
 #EXTINF:0 tvg-logo="https://png.pngtree.com/element_pic/16/11/18/4f829e85866bd52d062ca58b4e1ecef5.png", Movies
 #EXTSIZE: Medium
 https://raw.githubusercontent.com/iptv-list/VOD/refs/heads/main/movies.m3u
-#EXTINF:0 tvg-logo="https://img.freepik.com/free-vector/24-hours-7-days-everyday-helpdesk-service-background_1017-54447.jpg", 24/7 Channels
-#EXTSIZE: Medium
-https://raw.githubusercontent.com/iptv-list/VOD/refs/heads/main/24-7.m3u
+
 
