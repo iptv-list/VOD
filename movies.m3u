@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="playlist", Family / Kids
-https://raw.githubusercontent.com/iptv-list/IPTVList/refs/heads/main/familymovies.m3u
+https://raw.githubusercontent.com/iptv-list/VOD/refs/heads/main/familymovies
 #EXTINF:0 type="playlist", Documentary
 http://example.com/playlists/docs.m3u
 #EXTINF:0 type="playlist", Drama
